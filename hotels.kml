@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>isle of wight hotels</name>
+	<description>isle of wight hotels</description>
+	<open>1</open>
+	<Placemark id="1.2.1">
+		<name>The Wheatsheaf Hotel</name>
+		<address>16 St Thomas&apos; Square, Newport PO30 1SG</address>
+		<phoneNumber>01983 532444</phoneNumber>
+		<snippet>16 St Thomas&apos; Square, Newport PO30 1SG</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48747d3347f53899:0x1905597926bf0a69&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48747d3347f53899:0x1905597926bf0a69&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.2941609,50.69937110000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Royal Esplanade Hotel</name>
+		<address>16 Esplanade, Ryde PO33 2ED</address>
+		<phoneNumber>01983 562549</phoneNumber>
+		<snippet>16 Esplanade, Ryde PO33 2ED</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874611eea7ad85f:0x69bc38250b35397c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874611eea7ad85f:0x69bc38250b35397c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1591922,50.7322613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>The Burlington Hotel</name>
+		<address>5-9 Avenue Rd, Sandown PO36 8BN</address>
+		<phoneNumber>01983 403702</phoneNumber>
+		<snippet>5-9 Avenue Rd, Sandown PO36 8BN</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a8a6b80fe3b:0xf53dac14ba0758fc&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a8a6b80fe3b:0xf53dac14ba0758fc&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1504982,50.65665329999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>The Channel View Hotel</name>
+		<address>Hope Rd, Shanklin PO37 6EH</address>
+		<phoneNumber>01983 862309</phoneNumber>
+		<snippet>Hope Rd, Shanklin PO37 6EH</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a4add05ec5f:0x9429b095ba9909ca&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a4add05ec5f:0x9429b095ba9909ca&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1716491,50.63323429999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Calverts Hotel</name>
+		<address>Calverts Hotel, 27-29 Quay St, Newport PO30 5BA</address>
+		<phoneNumber>01983 525281</phoneNumber>
+		<snippet>Calverts Hotel, 27-29 Quay St, Newport PO30 5BA</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x487462ccd46eeab5:0xddb0683060fdf07b&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x487462ccd46eeab5:0xddb0683060fdf07b&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.2934973,50.70053449999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Albert Cottage Hotel</name>
+		<address>York Ave, East Cowes PO32 6BD</address>
+		<phoneNumber>01983 299309</phoneNumber>
+		<snippet>York Ave, East Cowes PO32 6BD</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874635879f498b5:0x1f4a1096335de06f&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874635879f498b5:0x1f4a1096335de06f&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.2777742,50.7536436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>The Waverley</name>
+		<address>2 Clatterford Rd, Carisbrooke, Newport PO30 1PA</address>
+		<phoneNumber>01983 522338</phoneNumber>
+		<snippet>2 Clatterford Rd, Carisbrooke, Newport PO30 1PA</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48747d40141d9041:0x5641d24841ebb751&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48747d40141d9041:0x5641d24841ebb751&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.3154772,50.6916767,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>The Birdham at Bembridge</name>
+		<address>1 Steyne Rd, Bembridge PO35 5UH</address>
+		<phoneNumber>01983 872840</phoneNumber>
+		<snippet>1 Steyne Rd, Bembridge PO35 5UH</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48745fed37e7d859:0x2ae56ca477559288&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48745fed37e7d859:0x2ae56ca477559288&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.0834689,50.68587429999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Bayshore Hotel</name>
+		<address>Pier St, Sandown PO36 8JX</address>
+		<phoneNumber>01983 403154</phoneNumber>
+		<snippet>Pier St, Sandown PO36 8JX</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a5e1e477753:0x2db0ae5de784a9d6&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a5e1e477753:0x2db0ae5de784a9d6&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1562474,50.6526252,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Trouville Hotel</name>
+		<address>10-16 Esplanade, Sandown PO36 8LB</address>
+		<phoneNumber>01983 402141</phoneNumber>
+		<snippet>10-16 Esplanade, Sandown PO36 8LB</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a6062b75e45:0x8d1b326cb3c5ce5c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a6062b75e45:0x8d1b326cb3c5ce5c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1540288,50.6537726,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>The Ocean View Hotel</name>
+		<address>1, 5 Park Rd, Shanklin PO37 6BB</address>
+		<phoneNumber>01983 861111</phoneNumber>
+		<snippet>1, 5 Park Rd, Shanklin PO37 6BB</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748bca9c470895:0xa5fe54f37922713d&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748bca9c470895:0xa5fe54f37922713d&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1739381,50.63034609999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Northbank Hotel</name>
+		<address>Circular Rd, Seaview PO34 5ET</address>
+		<phoneNumber>01983 612227</phoneNumber>
+		<snippet>Circular Rd, Seaview PO34 5ET</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48746081918401bd:0x400e2173c105563c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48746081918401bd:0x400e2173c105563c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1090356,50.7203063,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>The Altavia Hotel</name>
+		<address>18 Beachfield Rd, Sandown PO36 8NA</address>
+		<phoneNumber>01983 403767</phoneNumber>
+		<snippet>18 Beachfield Rd, Sandown PO36 8NA</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a5d8f9b57e1:0xf2022762dba73c4f&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a5d8f9b57e1:0xf2022762dba73c4f&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1592814,50.65228709999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Royal Esplanade Hotel</name>
+		<address>16 Esplanade, Ryde PO33 2ED</address>
+		<phoneNumber>01983 562549</phoneNumber>
+		<snippet>16 Esplanade, Ryde PO33 2ED</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874611eea7ad85f:0x69bc38250b35397c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874611eea7ad85f:0x69bc38250b35397c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1591922,50.7322613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Charter House</name>
+		<address>14a St Thomas&apos; Square, Newport PO30 1SL</address>
+		<phoneNumber>01983 532444</phoneNumber>
+		<snippet>14a St Thomas&apos; Square, Newport PO30 1SL</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48747db8be500003:0x8000593b8fb28187&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48747db8be500003:0x8000593b8fb28187&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.2936871,50.6995341,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Shanklin Hotel</name>
+		<address>Clarendon Rd, Shanklin PO37 6DP</address>
+		<phoneNumber>01983 862286</phoneNumber>
+		<snippet>Clarendon Rd, Shanklin PO37 6DP</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748bb5565b05bf:0xb384e664431e8f6b&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748bb5565b05bf:0xb384e664431e8f6b&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1737208,50.6318814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Haven Hall Hotel</name>
+		<address>5 Howard Rd, Shanklin PO37 6HD</address>
+		<phoneNumber>07914 796494</phoneNumber>
+		<snippet>5 Howard Rd, Shanklin PO37 6HD</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a4bd0883001:0x649ce9d6ee357cb4&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a4bd0883001:0x649ce9d6ee357cb4&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1704751,50.6367109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Newport Quay Hotel</name>
+		<address>41 Quay St, Newport PO30 5BA</address>
+		<phoneNumber>01983 528544</phoneNumber>
+		<snippet>41 Quay St, Newport PO30 5BA</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x487462cd217b4fc1:0x53a6419dbcdc49d1&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x487462cd217b4fc1:0x53a6419dbcdc49d1&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.292494,50.701087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>The Lorron Hotel</name>
+		<address>90 Sandown Rd, Sandown PO36 9JX</address>
+		<phoneNumber>01983 403666</phoneNumber>
+		<snippet>90 Sandown Rd, Sandown PO36 9JX</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a46030ad1bb:0xec345471547dbe54&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a46030ad1bb:0xec345471547dbe54&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.1687822,50.6435229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Folder id="results">
+		<name>isle of wight hotels</name>
+		<open>1</open>
+		<Placemark id="1.2.1">
+			<name>Travelodge Newport Isle of Wight</name>
+			<address>Lugley St, Newport PO30 5ET</address>
+			<phoneNumber>0871 984 6348</phoneNumber>
+			<snippet>Lugley St, Newport PO30 5ET</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48747d33028eae9f:0x352b40a2bbc0a74&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_A</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48747d33028eae9f:0x352b40a2bbc0a74&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.2978769,50.6998891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.3.1">
+			<name>Premier Inn Isle Of Wight (Newport) hotel</name>
+			<address>seaclose, Fairlee Rd, Newport PO30 2DN</address>
+			<phoneNumber>0333 003 1743</phoneNumber>
+			<snippet>seaclose, Fairlee Rd, Newport PO30 2DN</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x487462d3c7f85aed:0x7b18adc92b49a8f4&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_B</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x487462d3c7f85aed:0x7b18adc92b49a8f4&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.2908808,50.7064969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.4.1">
+			<name>Premier Inn Isle of Wight Sandown (Seafront) hotel</name>
+			<address>1-9 Esplanade, Sandown PO36 8LA</address>
+			<phoneNumber>0333 003 8101</phoneNumber>
+			<snippet>1-9 Esplanade, Sandown PO36 8LA</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748b8f8f7b31b7:0x826089a20e7e33a5&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_C</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748b8f8f7b31b7:0x826089a20e7e33a5&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.154723,50.653447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.5.1">
+			<name>The Ocean View Hotel</name>
+			<address>1, 5 Park Rd, Shanklin PO37 6BB</address>
+			<phoneNumber>01983 861111</phoneNumber>
+			<snippet>1, 5 Park Rd, Shanklin PO37 6BB</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748bca9c470895:0xa5fe54f37922713d&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_D</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748bca9c470895:0xa5fe54f37922713d&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.1739381,50.63034609999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.6.1">
+			<name>Travelodge Ryde Isle of Wight</name>
+			<address>Lind Hill, Ryde PO33 2LD</address>
+			<snippet>Lind Hill, Ryde PO33 2LD</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874611a308b7ecb:0xb8a18f990a5fbed6&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_E</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874611a308b7ecb:0xb8a18f990a5fbed6&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.1639667,50.7296947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.7.1">
+			<name>Luccombe Hall Hotel</name>
+			<address>8 Luccombe Rd, Shanklin PO37 6RL</address>
+			<phoneNumber>01983 869000</phoneNumber>
+			<snippet>8 Luccombe Rd, Shanklin PO37 6RL</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748bc634368b63:0x72a8941bc2a844c4&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_F</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748bc634368b63:0x72a8941bc2a844c4&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.1764884,50.6235161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.8.1">
+			<name>The Royal Hotel</name>
+			<address>Belgrave Rd, Ventnor PO38 1JJ</address>
+			<phoneNumber>01983 852186</phoneNumber>
+			<snippet>Belgrave Rd, Ventnor PO38 1JJ</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874894c6ae9e93b:0x60b89cca683dc546&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_G</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874894c6ae9e93b:0x60b89cca683dc546&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.21165,50.59412099999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.9.1">
+			<name>Wight Mouse Inn</name>
+			<address>Church Pl, Chale, Ventnor PO38 2HA</address>
+			<phoneNumber>01983 730431</phoneNumber>
+			<snippet>Church Pl, Chale, Ventnor PO38 2HA</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x487486db35d0aacd:0x340ae8532febf95c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_H</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x487486db35d0aacd:0x340ae8532febf95c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.3176549,50.5966443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.10.1">
+			<name>Trouville Hotel</name>
+			<address>10-16 Esplanade, Sandown PO36 8LB</address>
+			<phoneNumber>01983 402141</phoneNumber>
+			<snippet>10-16 Esplanade, Sandown PO36 8LB</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48748a6062b75e45:0x8d1b326cb3c5ce5c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_I</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48748a6062b75e45:0x8d1b326cb3c5ce5c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.1540288,50.6537726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.11.1">
+			<name>The Spyglass Inn</name>
+			<address>Esplanade, Ventnor PO38 1JX</address>
+			<phoneNumber>01983 855338</phoneNumber>
+			<snippet>Esplanade, Ventnor PO38 1JX</snippet>
+			<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x4874894d99f59337:0x45c0aabba9b6a66c&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+			<styleUrl>#listing_J</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x4874894d99f59337:0x45c0aabba9b6a66c&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<coordinates>-1.2103951,50.59295269999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Placemark id="1.11.1">
+		<name>New Holmwood Hotel</name>
+		<address>65 Queen&apos;s Rd, Cowes PO31 8BW</address>
+		<phoneNumber>01983 292508</phoneNumber>
+		<snippet>65 Queen&apos;s Rd, Cowes PO31 8BW</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.678&lng=-1.30333&fid=0x48747b44ea3a177d:0x9db3f7f865c59b94&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=50.678&amp;lng=-1.30333&amp;fid=0x48747b44ea3a177d:0x9db3f7f865c59b94&amp;hl=en&amp;gl=gb&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-1.312305,50.766797,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
