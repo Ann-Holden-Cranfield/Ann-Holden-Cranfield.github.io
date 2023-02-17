@@ -4,7 +4,7 @@
 	<name>isle of wight cafes</name>
 	<description>isle of wight cafe</description>
 	<open>1</open>
-	<Placemark id="1.2.1">
+	<Placemark id="1_2_1">
 		<name>Lily&apos;s Cafe</name>
 		<address>15 High St, Seaview PO34 5ES</address>
 		<phoneNumber>01983 617367</phoneNumber>
@@ -20,7 +20,7 @@
 			<coordinates>-1.1103476,50.7196721,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="1.3.1">
+	<Placemark id="1_3_1">
 		<name>The Harbour View Cafe</name>
 		<address>Embankment Rd, Bembridge PO35 5NR</address>
 		<phoneNumber>01983 872742</phoneNumber>
