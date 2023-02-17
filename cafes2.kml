@@ -7,7 +7,7 @@
 	<name>isle of wight cafes</name>
 	<snippet></snippet>
 	<description>isle of wight cafe</description>
-	<Placemark id="1.2.1">
+	<Placemark id="1_2_1">
 		<name>Lily&apos;s Cafe</name>
 		<snippet></snippet>
 		<description>Text here</description>
@@ -15,7 +15,7 @@
 			<coordinates>-1.1103476,50.7196721,0</coordinates>
 		</Point>
 	</Placemark>
-	<Placemark id="1.3.1">
+	<Placemark id="1_3_1">
 		<name>The Harbour View Cafe</name>
 		<snippet></snippet>
 		<description>Text Here</description>
