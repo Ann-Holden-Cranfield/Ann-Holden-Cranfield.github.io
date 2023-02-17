@@ -19,5 +19,13 @@
 			<coordinates>-1.0924409,50.69389,0</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Sails of Cowes Ltd</name>
+		<snippet></snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.7&lng=-1.19947&fid=0x48747b535bb3a7f5:0x29c633c554ae3fc0&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<Point>
+			<coordinates>-1.2973836,50.7610472,0</coordinates>
+		</Point>
+	</Placemark>
 </Folder>
 </kml>
