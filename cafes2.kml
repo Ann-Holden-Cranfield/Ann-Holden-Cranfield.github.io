@@ -7,7 +7,7 @@
 	<Placemark id="1.2.1">
 		<name>Lily&apos;s Cafe</name>
 		<snippet>15 High St, Seaview PO34 5ES</snippet>
-		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.7&lng=-1.19947&fid=0x4874608175807eb7:0x97047a217f9edbe0&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body>Text here</body></html>]]></description>
 		<styleUrl>#listing_A</styleUrl>
 
 		<Point>
@@ -17,7 +17,7 @@
 	<Placemark id="1.3.1">
 		<name>The Harbour View Cafe</name>
 		<snippet>Embankment Rd, Bembridge PO35 5NR</snippet>
-		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=50.7&lng=-1.19947&fid=0x48745f21afb16713:0x5657061f0319d471&hl=en&gl=gb&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body>Text here</script></body></html>]]></description>
 		<styleUrl>#listing_B</styleUrl>
 		<Point>
 			<coordinates>-1.0924409,50.69389,0</coordinates>
